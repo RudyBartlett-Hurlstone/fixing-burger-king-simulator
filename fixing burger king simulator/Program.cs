@@ -58,7 +58,7 @@ public class MainBurger
                         Console.Write("You ask their name");
                         Console.ReadLine();
                         cashier = "\u001b[33mMulberry- \u001b[0m";
-                        Console.Write("{0} \u001b[33mMulberry Marshal\u001b[0m", cashier);
+                        Console.Write("{0} \u001b[33mMulberry Marshall\u001b[0m", cashier);
                         Console.ReadLine();
                         do
                         {
@@ -99,7 +99,7 @@ public class MainBurger
                         //you are trying to cheat aren't you
                         //theres no need
                         //if you look at them then you are admiting to yourself that you are bad at computing
-                        //but if you want a hint, for the ºß¬í, it in not translated to text, and it also spells an accual phrase
+                        //but if you want a hint, for the ºß¬í, it in not translated to text, and it also spells an actual phrase
                         do
                         {
                             LogicBurger.flag = false;
@@ -302,7 +302,7 @@ public class MainBurger
                 Console.WriteLine("\u001b[33mMr.Plachciak- \u001b[0mWhat would you like to say in defence?");
                 Console.ReadLine();
                 Console.WriteLine("");
-                Console.Write("\u001b[33mMr.Plachciak- \u001b[0mWhat is blood \u001b[36;1mYAPPING\u001b[0m about");
+                Console.Write("\u001b[33mMr.Plachciak- \u001b[0mWhat is blud \u001b[36;1mYAPPING\u001b[0m about");
                 Console.ReadLine();
                 Console.Write("\u001b[33mMr.Plachciak- \u001b[0mNah brudda, you're goin' jail.");
                 Console.ReadLine();
@@ -423,7 +423,7 @@ public class MainBurger
                                         Console.ReadLine();
                                         Console.Write("you just disagree with everything don't you");
                                         Console.ReadLine();
-                                        Console.Write("your really making it hard for me");
+                                        Console.Write("you're really making it hard for me");
                                         Console.ReadLine();
                                         Console.Write("fine.");
                                         Console.ReadLine();
@@ -451,12 +451,12 @@ public class MainBurger
                                                         Console.ReadLine();
                                                         Console.Write("\u001b[41;1mjust go back home\u001b[0m");
                                                         Console.ReadLine();
-                                                        Console.Write("please.");
+                                                        Console.Write("Please.");
                                                         Console.ReadLine();
                                                         do
                                                         {
                                                             LogicBurger.flag = false;
-                                                            Console.WriteLine("\u001b[31;1mdon't you not feel conflicted about not going to not the not place where your un-home is not but the opposite?\u001b[0m");
+                                                            Console.WriteLine("\u001b[31;1Ddon't you not feel conflicted about not going to not the not place where your un-home is not but the opposite?\u001b[0m");
                                                             LogicBurger.Respond(ref yes, ref no, ref response, ref cashier, ref reset, ref endingAmmount, Ending, ref flag, ref god, ref judge, ref rebel, SecretEnding, ref secretEndingAmmount, ref person);
                                                             if (yes == true && reset == false)
                                                             {
@@ -549,7 +549,7 @@ public class MainBurger
     {
         Console.Write("{0} Welcome to \u001b[34mBurger King\u001b[0m, can I take your order?", cashier);
         Console.ReadLine();
-        Console.Write("{0} Wait, aren't you the perso who \u001b[31mkilled\u001b[0m that poor cashier 15 years ago?", cashier);
+        Console.Write("{0} Wait, aren't you the person who \u001b[31mkilled\u001b[0m that poor cashier 15 years ago?", cashier);
         Console.ReadLine();
         Console.Write("{0} That was \u001b[33mMulberry\u001b[0m that you \u001b[31mmurdered\u001b[0m in \u001b[31mcold blood.\u001b[0m", cashier);
         Console.ReadLine();
@@ -589,7 +589,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("You thought this was just a lowly salesman.");
         Console.ReadLine();
-        Console.Write("\u001b[33mCharlie-\u001b[0m If you don't want it let me show you something about it.");
+        Console.Write("\u001b[33mCharlie-\u001b[0m If you don't want it, let me show you something about it.");
         Console.ReadLine();
         Console.Write("\u001b[33mCharlie-\u001b[0m I bet I can hit this tennis ball over \u001b[33m150mph\u001b[0m!");
         Console.ReadLine();
@@ -656,7 +656,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("all of the seats are \u001b[33mtaken\u001b[0m!");
         Console.ReadLine();
-        Console.Write("You think to yourslef that you are going to die,");
+        Console.Write("You think to yourself that you are going to die,");
         Console.ReadLine();
         Console.Write("if you do not find a seat.");
         Console.ReadLine();
@@ -690,7 +690,7 @@ public class MainBurger
                 Console.ReadLine();
                 Console.Write("You sit down and wait for a short ammount of time.");
                 Console.ReadLine();
-                Console.Write("You soon relise you need to go to the \u001b[33mtoilet\u001b[0m but,");
+                Console.Write("You soon realise you need to go to the \u001b[33mtoilet\u001b[0m but,");
                 Console.ReadLine();
                 Console.Write("if you go you might miss your \u001b[33mprized {0}\u001b[0m.", meal);
                 Console.ReadLine();
@@ -726,7 +726,7 @@ public class MainBurger
                                 Console.ReadLine();
                                 Console.Write("they are unlocked but before you open one,");
                                 Console.ReadLine();
-                                Console.Write("you notcie a sign nearby, it reads:");
+                                Console.Write("you notice a sign nearby, it reads:");
                                 Console.ReadLine();
                                 Console.WriteLine("");
                                 do
@@ -790,7 +790,7 @@ public class MainBurger
                                 Console.ReadLine();
                                 Console.Write("Good choice as \u001b[33mBenny\u001b[0m just came out of the first cubicle.");
                                 Console.ReadLine();
-                                Console.Write("You eneter in and do you buissiness.");
+                                Console.Write("You eneter in and do you business.");
                                 Console.ReadLine();
                                 Console.Write("You come back to realise that,");
                                 Console.ReadLine();
@@ -814,7 +814,7 @@ public class MainBurger
                                         Console.ReadLine();
                                         Console.Write("\u001b[33mFinlay-\u001b[0m You were about to complain to that cashier about your {0}", meal);
                                         Console.ReadLine();
-                                        Console.Write("\u001b[33mFinlay-\u001b[0m wern't you");
+                                        Console.Write("\u001b[33mFinlay-\u001b[0m weren't you");
                                         Console.ReadLine();
                                         Console.Write("\u001b[33mFinlay-\u001b[0m well I think that is not very nice so,");
                                         Console.ReadLine();
@@ -850,7 +850,7 @@ public class MainBurger
                     {
                         Console.Write("You decide to wait it out.");
                         Console.ReadLine();
-                        Console.Write("You relise it might mean you have to let it out here but,");
+                        Console.Write("You realise it might mean you have to let it out here but,");
                         Console.ReadLine();
                         Console.Write("it will be worth it for that \u001b[33m{0}\u001b[0m.", meal);
                         Console.ReadLine();
@@ -863,7 +863,7 @@ public class MainBurger
                         do
                         {
                             LogicBurger.flag = false;
-                            Console.WriteLine("Do you go to the \u001b[33mtoilet\u001b[0m (you won't get your \u001b[33m{0}\u001b[0m)", meal);
+                            Console.WriteLine("Do you go to the \u001b[33mtoilet\u001b[0m? (you won't get your \u001b[33m{0}\u001b[0m)", meal);
                             LogicBurger.Respond(ref yes, ref no, ref response, ref cashier, ref reset, ref endingAmmount, Ending, ref flag, ref god, ref judge, ref rebel, SecretEnding, ref secretEndingAmmount, ref person);
                             if (yes == true && reset == false)
                             {
@@ -938,8 +938,8 @@ public class MainBurger
         Console.WriteLine("");
         (string question, string answer)[] questions = {
             //geography
-            ("What is the main city in the Thar deset", "jaisalmer"),
-            ("What is the top layer of a rainforrest called?", "emergent"),
+            ("What is the main city in the Thar desert", "jaisalmer"),
+            ("What is the top layer of a rainforest called?", "emergent"),
             ("Which type of techtonic crust is newer?", "oceanic"),
             ("Which poor country that experiences earthquakes do we learn about?", "nepal"),
             ("What type of energy is built up berfore an earthquake?", "strain"),
@@ -949,13 +949,13 @@ public class MainBurger
             ("What is the process of rocks being smashed together?", "attrition"),
             ("How many hours is water avaliable in Dharavi?", "2"),
             //chemistry
-            ("What needs replacing during electrolysis of aluminium oxide?", "anonde"),
+            ("What needs replacing during electrolysis of aluminium oxide?", "anode"),
             ("What does this order represent: PSLCMCZIHCSG?", "reactivity"),
             ("What is the process of rocks being smashed together?", "attrition"),
-            ("What sepparates liquds from soluble solids?", "crystallisation"),
+            ("What separates liquds from soluble solids?", "crystallisation"),
             ("What colour does flourine gas appear?", "yellow"),
             ("What is a single layer of 3 carbon atoms bonded together?", "graphene"),
-            ("Whoose number is: 6.02 x 10²³?", "avogadro"),
+            ("Whose number is: 6.02 x 10²³?", "avogadro"),
             ("What colour does the precipitate of Fe2+ turn to after waiting?", "brown"),
             ("What material is: low density, waterproof and used for plastic bags?", "polyethene"),
             ("What type of bonding happens between two polymers with different function groups?", "condensation"),
@@ -975,16 +975,16 @@ public class MainBurger
             ("What type of microscope has high resolution?", "electron"),
             ("What type of plate do we create microorganisms on?", "agar"),
             ("What is a group of tissues working together?", "organ"),
-            ("What are these: DKCOFGS?", "taxons"),
+            ("What are these: DKPCOFGS?", "taxons"),
             ("What is an organism that lives in an extreme place?", "extremophile"),
-            ("What type of acids do protiens break down to form?", "amino"),
+            ("What type of acids do proteins break down to form?", "amino"),
             ("What type of pathogen is salmonella?", "bacteria"),
             ("What is the sum of all chemical reactions in the body?", "metabolism"),
             ("What type of neurone is activated last during a response?", "motor"),
             //english
             ("What did Carol Rumens write?", "emigree"),
             ("What does the inspector not play?", "golf"),
-            ("What is Mr.Birling a `Hard headed man of`?", "buisiness"),
+            ("What is Mr.Birling a `Hard headed man of`?", "business"),
             ("Which poem does the speaker express the futile pursuit of power and its consequences?", "prelude"),
             ("How many gay people in Jekyll and Hyde?", "3"),
             ("What are used as a symbol of truth in Jekyll and Hyde?", "windows"),
@@ -992,16 +992,16 @@ public class MainBurger
             ("How many poems in power and conflict?", "15"),
             ("Where did Eva Smith die?", "infirmary"),
             ("What does AO3 refer to in English?", "context"),
-            //phsyics
+            //physics
             ("Who made the `left hand rule`?", "fleming"),
             ("What does a circle with an x through represent?", "bulb"),
             ("What potential is 0.5ke^2?", "elastic"),
-            ("What percet of the speed of light does Beta radiaton travel?", "90"),
-            ("In phsyics, what makes photohgraphic film turn black?", "radiation"),
+            ("What percent of the speed of light does Beta radiaton travel?", "90"),
+            ("In physics, what makes photohgraphic film turn black?", "radiation"),
             ("What element does Uranium decay to?", "thorium"),
-            ("Whoose law is this: amps through a conductor between two points is proportional to the volts across the two points?", "ohm"),
+            ("Whose law is this: amps through a conductor between two points is proportional to the volts across the two points?", "ohm"),
             ("What colour is the neutral wire?", "blue"),
-            ("In phsyics, what point does `F` stand for?", "focal"),
+            ("In physics, what point does `F` stand for?", "focal"),
             ("What type of lens produces a virtual image?", "concave"),
             //latin
             ("What is the plural nominative 2nd declention noun ending?", "-i"),
@@ -1015,7 +1015,7 @@ public class MainBurger
             ("What is the latin word for nominative masculine `this`?", "hic"),
             ("Who is Nero's aunt?", "caligula"),
             //DT
-            ("What is the last name of the person who designed the Gherekin?", "foster"),
+            ("What is the last name of the person who designed the Gherkin?", "foster"),
             ("What can be described as an inital product or sample of a product?", "prototype"),
             ("What term describes the process of refining a product's design based on user feedback?", "iteration"),
             ("What is the manufacturing process where liquid material is poured into a mold and then solidified?", "casting"),
@@ -1032,7 +1032,7 @@ public class MainBurger
             ("What type of imaging is commonnly used?", "bitmap"),
             ("What stand for the thing which is used as permenant storage in a computer besides SSD?", "hdd"),
             ("What is described as taking measurements to record frequency in music?", "sampling"),
-            ("What is the fastest type of cable?", "opti"),
+            ("What is the fastest type of cable?", "optic"),
             ("What type of attack involves flooding serves with traffic", "ddos"),
             ("What is used to connect networks besides a hub?", "switch"),
             ("What type of attack involves using set words to crack a password?", "dictionary"),
@@ -1040,12 +1040,12 @@ public class MainBurger
 
         (string Hardquestion, string answer)[] Hardquestions = {
             ("What is a material found in the Thar desert that is used for plastics and cement?", "gypsum"),
-            ("What is non-stick, used for coating a frying pan and stands for PTFE?", "Polytetrafuoroethene"),
+            ("What is non-stick, used for coating a frying pan and stands for PTFE?", "polytetrafluoroethylene"),
             ("What is y when the area of a rhombus is 250y/5 and its leangth is 2(y+7) and its perpendicular height is 4!?", "112"),
-            ("What is used to streangthen xylem?", "lignin"),
+            ("What is used to strengthen xylem?", "lignin"),
             ("What is my least favourite colour?", "yellow"),
-            ("What the fith ending of Burger King simulator?", "rebel"),
-            ("How many marks for all of English?", "288"),
+            ("What the fifth ending of Burger King Simulator?", "rebel"),
+            ("How many marks for all of English GCSE papers?", "288"),
             ("What type of wave has a larger shadow zone?", "primary"),
             ("What is the word for the non-reflective plural feminine possesive pronoun?", "earum"),
             ("How many slides in my final DT NEA PowerPoint?", "22"),
@@ -1171,9 +1171,9 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("you notice there is a children's \u001b[33mtoilets\u001b[0m,");
         Console.ReadLine();
-        Console.Write("which you thought nothing off untill you saw");
+        Console.Write("which you thought nothing of until you saw");
         Console.ReadLine();
-        Console.Write("\u001b[33mHarry Woods\u001b[0m accting a bit dodgy around them.");
+        Console.Write("\u001b[33mHarry Woods\u001b[0m acting a bit dodgy around them.");
         Console.ReadLine();
         Console.Write("You ignore it and enter the male \u001b[33mtoilets\u001b[0m.");
         Console.ReadLine();
@@ -1183,7 +1183,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("It was the loudest noise ever.\u001b[0m");
         Console.ReadLine();
-        Console.Write("\u001b[31;1mIt caused a sonic boom which evicerated everting for a 200m radius.");
+        Console.Write("\u001b[31;1mIt caused a sonic boom which evicerated everything for a 200m radius.");
         Console.ReadLine();
         Console.Write("You died.\u001b[0m");
         Console.ReadLine();
@@ -1227,15 +1227,15 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("\u001b[32;3mlets one rip.\u001b[0m");
         Console.ReadLine();
-        Console.Write("you died.");
+        Console.Write("You died.");
         Console.ReadLine();
-        Console.Write("nasir died.");
+        Console.Write("Nasir died.");
         Console.ReadLine();
-        Console.Write("the sheer ammount of methane caused the global temperature to rise by 15C.");
+        Console.Write("The sheer ammount of methane caused the global temperature to rise by 15C.");
         Console.ReadLine();
-        Console.Write("billions died.");
+        Console.Write("Billions died.");
         Console.ReadLine();
-        Console.Write("jenson survived.");
+        Console.Write("Jenson survived.");
         Console.ReadLine();
         Console.WriteLine("");
         Console.WriteLine("\u001b[35;1mEnding {0}/{1}: {2}\u001b[0m", Ending[1, 3], LogicBurger.endingAmmount, Ending[0, 3]);
@@ -1259,9 +1259,9 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("when you get there,");
         Console.ReadLine();
-        Console.Write("its gone,");
+        Console.Write("it's gone.");
         Console.ReadLine();
-        Console.Write("you ask around what happened to it but");
+        Console.Write("You ask around what happened to it but");
         Console.ReadLine();
         Console.Write("the people say it was \u001b[33mblown up\u001b[0m!");
         Console.ReadLine();
@@ -1309,33 +1309,33 @@ public class MainBurger
     }
     public static void DementiaEnding(string endingAmmount, string[,] Ending)
     {
-        Console.Write("Because seem to not really know what you are doing,");
+        Console.Write("Because you seem to not really know what you are doing,");
         Console.ReadLine();
         Console.Write("you just walk off in a straight line.");
         Console.ReadLine();
-        Console.Write("as you are walkng,");
+        Console.Write("as you are walking,");
         Console.ReadLine();
-        Console.Write("you strt realisng");
+        Console.Write("you start realising");
         Console.ReadLine();
-        Console.Write("you cnt");
+        Console.Write("you cant");
         Console.ReadLine();
-        Console.Write("rmmber");
+        Console.Write("remember");
         Console.ReadLine();
-        Console.Write("wre");
+        Console.Write("where");
         Console.ReadLine();
-        Console.Write("yu");
+        Console.Write("you");
         Console.ReadLine();
-        Console.Write("r");
+        Console.Write("are");
         Console.ReadLine();
-        Console.Write("hded");
+        Console.Write("headed");
         Console.ReadLine();
         Console.Write("or");
         Console.ReadLine();
-        Console.Write("aytng");
+        Console.Write("anything");
         Console.ReadLine();
-        Console.Write("t");
+        Console.Write("at");
         Console.ReadLine();
-        Console.Write("al");
+        Console.Write("all");
         Console.ReadLine();
         for (int i = 0; i < 7; i++)
         {
@@ -1351,7 +1351,7 @@ public class MainBurger
     }
     public static void InsanityEnding(string endingAmmount, string[,] Ending)
     {
-        Console.Write("You ingore the knocking, thinking it is the police.");
+        Console.Write("You ignore the knocking, thinking it is the police.");
         Console.ReadLine();
         Console.Write("You go back to bed without leaving the house.");
         Console.ReadLine();
@@ -1393,7 +1393,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("\u001b[33mCharlie- £420.69\u001b[0m");
         Console.ReadLine();
-        Console.Write("\u001b[33mCharlie-\u001b[0m But is is worth it");
+        Console.Write("\u001b[33mCharlie-\u001b[0m But is it worth it");
         Console.ReadLine();
         Console.Write("You offer to buy the racket");
         Console.ReadLine();
@@ -1422,7 +1422,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("you instantly died.");
         Console.ReadLine();
-        Console.Write("no one has ever said a bigger lie ever.");
+        Console.Write("No one has ever said a bigger lie ever.");
         Console.ReadLine();
         Console.WriteLine("");
         Console.WriteLine("\u001b[35;1mEnding {0}/{1}: {2}\u001b[0m", Ending[1, 12], LogicBurger.endingAmmount, Ending[0, 12]);
@@ -1457,7 +1457,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("\u001b[33mQuoc- \u001b[0mKirby has appeared in various spin-off games like puzzle and racing games.");
         Console.ReadLine();
-        Console.Write("It is actually so very interesting, that you didn't notcie the time.");
+        Console.Write("It is actually so very interesting, that you didn't notice the time.");
         Console.ReadLine();
         Console.Write("It has been two weeks.");
         Console.ReadLine();
@@ -1601,7 +1601,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("You go to grab it but then,");
         Console.ReadLine();
-        Console.Write("Little you know, the situation was about to take a dramatic turn.");
+        Console.Write("little do you know, the situation was about to take a dramatic turn.");
         Console.ReadLine();
         Console.Write("As the day unfolded, unforeseen obstacles emerged one after another.");
         Console.ReadLine();
@@ -1625,7 +1625,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("It was just a gold toilet");
         Console.ReadLine();
-        Console.Write("Its a \u001b[32msafe\u001b[0m cubicle!");
+        Console.Write("It's a \u001b[32msafe\u001b[0m cubicle!");
         Console.ReadLine();
         Console.Write("You get the toilet and it is real 24K gold.");
         Console.ReadLine();
@@ -1681,15 +1681,15 @@ public class MainBurger
     public static void Grade4Ending(string endingAmmount, string[,] Ending)
     {
         Console.WriteLine("");
-        Console.Write("\u001b[33mFinlay-\u001b[0m Its jover for you.");
+        Console.Write("\u001b[33mFinlay-\u001b[0m Its joever for you.");
         Console.ReadLine();
         Console.Write("\u001b[33mFinlay-\u001b[0m Really?");
         Console.ReadLine();
-        Console.Write("\u001b[33mFinlay-\u001b[0m You didnt even make it to the hard question.");
+        Console.Write("\u001b[33mFinlay-\u001b[0m You didn't even make it to the hard question.");
         Console.ReadLine();
         Console.Write("He pulls out a gun and,");
         Console.ReadLine();
-        Console.Write("shoots you down");
+        Console.Write("shoots you down.");
         Console.ReadLine();
         Console.Write("You died.");
         Console.ReadLine();
@@ -1756,12 +1756,12 @@ public class MainBurger
         {
             Console.ReadLine();
         }
-        Console.Write("\u001b[36;3m*You start to think that you are not acctualy in \u001b[0m\u001b[34mBurger King\u001b[36;3m*\u001b[0m");
+        Console.Write("\u001b[36;3m*You start to think that you are not actually in \u001b[0m\u001b[34mBurger King\u001b[36;3m*\u001b[0m");
         for (int i = 0; i < 10; i++)
         {
             Console.ReadLine();
         }
-        Console.Write("\u001b[36;3m*You soon realise where you acctualy are*\u001b[0m");
+        Console.Write("\u001b[36;3m*You soon realise where you actually are*\u001b[0m");
         for (int i = 0; i < 10; i++)
         {
             Console.ReadLine();
@@ -1810,7 +1810,7 @@ public class MainBurger
             Console.ReadLine();
             Console.Write("{0} Lettuce, mayo, pickle, ketchup", cashier);
             Console.ReadLine();
-            Console.Write("{0} Itst's okay if I don't want that", cashier);
+            Console.Write("{0} It's okay if I don't want that", cashier);
             Console.ReadLine();
             Console.Write("{0} Impossible or bacon Whopper", cashier);
             Console.ReadLine();
@@ -1866,7 +1866,7 @@ public class MainBurger
         Console.WriteLine("");
         Console.Write("\u001b[33mYou-\u001b[0m [hesitant] But to take such a step, to betray the trust of \u001b[34mThe Burger King\u001b[0m, ");
         Console.ReadLine();
-        Console.Write("it goes against all that I hold sir.");
+        Console.Write("it goes against all that I hold, sir.");
         Console.ReadLine();
         Console.WriteLine("");
         Console.Write("\u001b[33mMulberry-\u001b[0m [eyes gleaming with determination] What is loyalty but a chain that binds us to the whims of others?");
@@ -2041,9 +2041,9 @@ public class LogicBurger
     public static void Intro()
     {
         Console.WriteLine("");
-        Console.WriteLine("\u001b[34;4mBurger King Siulator\u001b[0m");
+        Console.WriteLine("\u001b[34;4mBurger King Simulator\u001b[0m");
         Console.WriteLine("");
-        Console.WriteLine("Type \u001b[32my\u001b[0m for \u001b[32mYes\u001b[0m, \u001b[31mn\u001b[0m for \u001b[31mNo\u001b[0m or anything else that might be relevant in responsces");
+        Console.WriteLine("Type \u001b[32my\u001b[0m for \u001b[32mYes\u001b[0m, \u001b[31mn\u001b[0m for \u001b[31mNo\u001b[0m or anything else that might be relevant in responses");
         Console.WriteLine("Type r to Reset");
         Console.WriteLine("Press Enter to continue");
         Console.ReadLine();
