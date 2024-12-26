@@ -181,7 +181,7 @@ public class MainBurger
                         Console.ReadLine();
                         Console.Write("you make it back to your house.");
                         Console.ReadLine();
-                        Console.Write("You are constanly thinking about the \u001b[33mpolice\u001b[0m");
+                        Console.Write("You are constantly thinking about the \u001b[33mpolice\u001b[0m");
                         Console.ReadLine();
                         Console.Write("and what would happen if \u001b[33mthey\u001b[0m came.");
                         Console.ReadLine();
@@ -790,7 +790,7 @@ public class MainBurger
                                 Console.ReadLine();
                                 Console.Write("Good choice as \u001b[33mBenny\u001b[0m just came out of the first cubicle.");
                                 Console.ReadLine();
-                                Console.Write("You eneter in and do you business.");
+                                Console.Write("You enter in and do you business.");
                                 Console.ReadLine();
                                 Console.Write("You come back to realise that,");
                                 Console.ReadLine();
